@@ -25,7 +25,9 @@ SECRET_KEY = 'yb7#obii^0bia8600-vq6*69*02ku=%&k+@o=$%z+tttf$x3rt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'bachelor-thesis-sw.herokuapp.com',
+]
 
 
 # Application definition
